@@ -1,0 +1,2752 @@
+[
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "According to the BBPA, what is the most common pub name in the UK?",
+        "correct_answer": "Red Lion",
+        "incorrect_answers": [
+            "Royal Oak",
+            "White Hart",
+            "King's Head"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "When was the Declaration of Independence approved by the Second Continental Congress?",
+        "correct_answer": "July 4, 1776",
+        "incorrect_answers": [
+            "May 4, 1776",
+            "June 4, 1776",
+            "July 2, 1776"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+            "The Dream Team",
+            "The Bushwhackers",
+            "The British Bulldogs"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "correct_answer": "Watch",
+        "incorrect_answers": [
+            "Money",
+            "Keys",
+            "Notebook"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "A doctor with a PhD is a doctor of what?",
+        "correct_answer": "Philosophy",
+        "incorrect_answers": [
+            "Psychology",
+            "Phrenology",
+            "Physical Therapy"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "Which sign of the zodiac is represented by the Crab?",
+        "correct_answer": "Cancer",
+        "incorrect_answers": [
+            "Libra",
+            "Virgo",
+            "Sagittarius"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What does the 'S' stand for in the abbreviation SIM, as in SIM card? ",
+        "correct_answer": "Subscriber",
+        "incorrect_answers": [
+            "Single",
+            "Secure",
+            "Solid"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What word represents the letter 'T' in the NATO phonetic alphabet?",
+        "correct_answer": "Tango",
+        "incorrect_answers": [
+            "Target",
+            "Taxi",
+            "Turkey"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "Which language is NOT Indo-European?",
+        "correct_answer": "Hungarian",
+        "incorrect_answers": [
+            "Russian",
+            "Greek",
+            "Latvian"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "Which of the following Ivy League universities has its official motto in Hebrew as well as in Latin?",
+        "correct_answer": "Yale University",
+        "incorrect_answers": [
+            "Princeton University",
+            "Harvard University",
+            "Columbia University"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "correct_answer": "Rock Band",
+        "incorrect_answers": [
+            "Meat Beat Mania",
+            "Guitar Hero Live",
+            "Dance Dance Revolution"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
+        "correct_answer": "Gorilla",
+        "incorrect_answers": [
+            "Tiger",
+            "Panda",
+            "Crocodile"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What is the name of the very first video uploaded to YouTube?",
+        "correct_answer": "Me at the zoo",
+        "incorrect_answers": [
+            "tribute",
+            "carrie rides a truck",
+            "Her new puppy from great grandpa vern."
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "Before the 19th Century, the \"Living Room\" was originally called the...",
+        "correct_answer": "Parlor",
+        "incorrect_answers": [
+            "Open Room",
+            "Sitting Room",
+            "Loft"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "What year was Queen Elizabeth II born?",
+        "correct_answer": "1926",
+        "incorrect_answers": [
+            "1923",
+            "1929",
+            "1930"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "Sciophobia is the fear of what?",
+        "correct_answer": "Shadows",
+        "incorrect_answers": [
+            "Eating",
+            "Bright lights",
+            "Transportation"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What alcoholic drink is mainly made from juniper berries?",
+        "correct_answer": "Gin",
+        "incorrect_answers": [
+            "Vodka",
+            "Rum",
+            "Tequila"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "What is the romanized Korean word for \"heart\"?",
+        "correct_answer": "Simjang",
+        "incorrect_answers": [
+            "Aejeong",
+            "Jeongsin",
+            "Segseu"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "What is the romanized Arabic word for \"moon\"?",
+        "correct_answer": "Qamar",
+        "incorrect_answers": [
+            "Najma",
+            "Kawkab",
+            "Shams"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What is the romanized Russian word for \"winter\"?",
+        "correct_answer": "Zima",
+        "incorrect_answers": [
+            "Leto",
+            "Vesna",
+            "Osen'"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+        "correct_answer": "Harry",
+        "incorrect_answers": [
+            "Gus",
+            "Phineas",
+            "Ezra"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What country saw a world record 315 million voters turn out for elections on May 20, 1991?",
+        "correct_answer": "India",
+        "incorrect_answers": [
+            "United States of America",
+            "Soviet Union",
+            "Poland"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+        "correct_answer": "1 Month",
+        "incorrect_answers": [
+            "3 Weeks",
+            "1 Week",
+            "2 Months"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What was Mountain Dew's original slogan?",
+        "correct_answer": "Yahoo! Mountain Dew... It'll tickle your innards!",
+        "incorrect_answers": [
+            "Give Me A Dew",
+            "Do The Dew",
+            "Get' that barefoot feelin' drinkin' Mountain Dew"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+        "correct_answer": "7 years",
+        "incorrect_answers": [
+            "2 years",
+            "8 years",
+            "6 months"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "What was Bank of America originally established as?",
+        "correct_answer": "Bank of Italy",
+        "incorrect_answers": [
+            "Bank of Long Island",
+            "Bank of Pennsylvania",
+            "Bank of Charlotte"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "Virtual reality company Oculus VR lost which of it's co-founders in a freak car accident in 2013?",
+        "correct_answer": "Andrew Scott Reisse",
+        "incorrect_answers": [
+            "Nate Mitchell",
+            "Jack McCauley",
+            "Palmer Luckey"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What was the original name of the search engine \"Google\"?",
+        "correct_answer": "BackRub",
+        "incorrect_answers": [
+            "CatMassage",
+            "SearchPro",
+            "Netscape Navigator"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "Which of the following presidents is not on Mount Rushmore?",
+        "correct_answer": "John F. Kennedy",
+        "incorrect_answers": [
+            "Theodore Roosevelt",
+            "Abraham Lincoln",
+            "Thomas Jefferson"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "Which candy is NOT made by Mars?",
+        "correct_answer": "Almond Joy",
+        "incorrect_answers": [
+            "M&M's",
+            "Twix",
+            "Snickers"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "Where is Apple Inc. headquartered?",
+        "correct_answer": "Cupertino, California",
+        "incorrect_answers": [
+            "Redwood City, California",
+            "Redmond, Washington",
+            "Santa Monica, CA"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "Which country has the most Trappist breweries?",
+        "correct_answer": "Belgium",
+        "incorrect_answers": [
+            "Netherlands",
+            "France",
+            "USA"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What zodiac sign is represented by a pair of scales?",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+            "Aries",
+            "Capricorn",
+            "Sagittarius"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What nuts are used in the production of marzipan?",
+        "correct_answer": "Almonds",
+        "incorrect_answers": [
+            "Peanuts",
+            "Walnuts",
+            "Pistachios"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What is the currency of Poland?",
+        "correct_answer": "Z\u0142oty",
+        "incorrect_answers": [
+            "Ruble",
+            "Euro",
+            "Krone"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+        "correct_answer": "Thomas Jefferson",
+        "incorrect_answers": [
+            "Martin Van Buren",
+            "Ulysses Grant",
+            "John Quincy Adams"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "When someone is inexperienced they are said to be what color?",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+            "Red",
+            "Blue",
+            "Yellow"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "A statue of Charles Darwin sits in what London museum?",
+        "correct_answer": "Natural History Museum",
+        "incorrect_answers": [
+            "Tate",
+            "British Museum",
+            "Science Museum"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What is the highest number of Michelin stars a restaurant can receive?",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+            "Four",
+            "Five",
+            "Six"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What are Panama hats made out of?",
+        "correct_answer": "Straw",
+        "incorrect_answers": [
+            "Silk",
+            "Hemp",
+            "Flax"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What is the full title of the Prime Minister of the UK?",
+        "correct_answer": "First Lord of the Treasury",
+        "incorrect_answers": [
+            "Duke of Cambridge",
+            "Her Majesty's Loyal Opposition",
+            "Manager of the Crown Estate"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "Which of these cities does NOT have a United States Minting location?",
+        "correct_answer": "St. Louis, MO",
+        "incorrect_answers": [
+            "San Fransisco, CA",
+            "Philidelphia, PA",
+            "West Point, NY"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "hard",
+        "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+        "correct_answer": "Edward VIII",
+        "incorrect_answers": [
+            "Victoria",
+            "George VI",
+            "Charles II"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "The Canadian $1 coin is colloquially known as a what?",
+        "correct_answer": "Loonie",
+        "incorrect_answers": [
+            "Boolie",
+            "Foolie",
+            "Moodie"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "The Fields Medal, one of the most sought after awards in mathematics, is awarded every how many years?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "3",
+            "5",
+            "6"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?",
+        "correct_answer": "Peace",
+        "incorrect_answers": [
+            "Physics",
+            "Economics",
+            "Physiology/Medicine"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "The architect known as Le Corbusier was an important figure in what style of architecture?",
+        "correct_answer": "Modernism",
+        "incorrect_answers": [
+            "Neoclassical",
+            "Baroque",
+            "Gothic Revival"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "medium",
+        "question": "What fast food chain has the most locations globally? ",
+        "correct_answer": "Subway",
+        "incorrect_answers": [
+            "Starbucks",
+            "McDonalds",
+            "KFC"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+        "correct_answer": "Helicopter",
+        "incorrect_answers": [
+            "Stealth Blimp",
+            "Jet",
+            "Space Capsule"
+        ]
+    },
+    {
+        "category": "General Knowledge",
+        "difficulty": "easy",
+        "question": "In aerodynamics, which force pushes an object upwards?",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+            "Drag",
+            "Weight",
+            "Thrust"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "Which of these bones is hardest to break?",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+            "Cranium",
+            "Humerus",
+            "Tibia"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "What is the colour of unoxidized blood?",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+            "Blue",
+            "Purple",
+            "Green"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "What is the largest animal currently on Earth?",
+        "correct_answer": "Blue Whale",
+        "incorrect_answers": [
+            "Orca",
+            "Colossal Squid",
+            "Giraffe"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "Which is the chemical name of H2O?",
+        "correct_answer": "Dihydrogen Monoxide",
+        "incorrect_answers": [
+            "Ammonium chloride",
+            "Anhydrous Sodium Carbonate",
+            "Manganese dioxide"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "On the Beaufort Scale of wind force, what wind name is given to number 8?",
+        "correct_answer": "Gale",
+        "incorrect_answers": [
+            "Storm",
+            "Hurricane",
+            "Breeze"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "Which gas forms about 78% of the Earth\u2019s atmosphere?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Argon",
+            "Carbon Dioxide"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which chemical element has the lowest boiling point?",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+            "Hydrogen",
+            "Neon",
+            "Nitrogen"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "What is the molecular formula of Glucose?",
+        "correct_answer": "C6H12O6",
+        "incorrect_answers": [
+            "C2H4O2",
+            "K+",
+            "CH4"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "What is the standard SI unit for temperature?",
+        "correct_answer": "Kelvin",
+        "incorrect_answers": [
+            "Fahrenheit",
+            "Celsius",
+            "Rankine"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "How many planets make up our Solar System?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "7",
+            "9",
+            "6"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which element has the atomic number of 7?",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+            "Oxygen",
+            "Hydrogen",
+            "Neon"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:",
+        "correct_answer": "Haplogroup U",
+        "incorrect_answers": [
+            "Haplogroup L",
+            "Haplogroup T",
+            "Haplogroup J"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "How many officially recognized dwarf planets in the solar system are named after Polynesian deities?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+            "0",
+            "1",
+            "5"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "What is the primary addictive substance found in tobacco?",
+        "correct_answer": "Nicotine",
+        "incorrect_answers": [
+            "Cathinone",
+            "Ephedrine",
+            "Glaucine"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Who developed the first successful polio vaccine in the 1950s?",
+        "correct_answer": "Jonas Salk",
+        "incorrect_answers": [
+            "John F. Enders",
+            "Thomas Weller",
+            "Frederick Robbins"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "How many bones are in the human body?",
+        "correct_answer": "206",
+        "incorrect_answers": [
+            "203",
+            "209",
+            "200"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Where did the dog breed \"Chihuahua\" originate?",
+        "correct_answer": "Mexico",
+        "incorrect_answers": [
+            "France",
+            "Spain",
+            "Russia"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "What polymer is used to make CDs, safety goggles and riot shields?",
+        "correct_answer": "Polycarbonate",
+        "incorrect_answers": [
+            "Rubber",
+            "Nylon",
+            "Bakelite"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which part of the body does glaucoma affect?",
+        "correct_answer": "Eyes",
+        "incorrect_answers": [
+            "Throat",
+            "Stomach",
+            "Blood"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "Which of the following is NOT a real element?",
+        "correct_answer": "Vitrainium",
+        "incorrect_answers": [
+            "Praseodymium",
+            "Hassium",
+            "Lutetium"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?",
+        "correct_answer": "Ernest Rutherford",
+        "incorrect_answers": [
+            "Joseph John Thomson",
+            "Archimedes",
+            "Niels Henrik David Bohr"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "After which Danish city is the 72th element on the periodic table named?",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": [
+            "Odense",
+            "Herning",
+            "Skagen"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which of these is a type of stretch/deep tendon reflex?",
+        "correct_answer": "Ankle jerk reflex",
+        "incorrect_answers": [
+            "Gag reflex",
+            "Pupillary light reflex",
+            "Scratch reflex"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "What does the yellow diamond on the NFPA 704 fire diamond represent?",
+        "correct_answer": "Reactivity",
+        "incorrect_answers": [
+            "Health",
+            "Flammability",
+            "Radioactivity"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "The element involved in making human blood red is which of the following?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+            "Copper",
+            "Iridium",
+            "Cobalt"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "The medical term for the belly button is which of the following?",
+        "correct_answer": "Umbilicus",
+        "incorrect_answers": [
+            "Nevus",
+            "Nares",
+            "Paxillus"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+        "correct_answer": "Interphase",
+        "incorrect_answers": [
+            "Prophase",
+            "Stasis",
+            "Telophase"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "At what temperature does water boil?",
+        "correct_answer": "212\u00b0F",
+        "incorrect_answers": [
+            "200\u00b0F",
+            "181\u00b0F",
+            "178\u00b0F"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "How many chromosomes are in your body cells?",
+        "correct_answer": "23",
+        "incorrect_answers": [
+            "21",
+            "22",
+            "24"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Deuterium is an isotope of which element?",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+            "Nitrogen",
+            "Helium",
+            "Neon"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "71% of the Earth's surface is made up of",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+            "Deserts",
+            "Continents",
+            "Forests"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "What element on the periodic table has 92 electrons?",
+        "correct_answer": "Uranium",
+        "incorrect_answers": [
+            "Sulfur",
+            "Hydrogen",
+            "Iron"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "What is the unit of electrical inductance?",
+        "correct_answer": "Henry",
+        "incorrect_answers": [
+            "Weber",
+            "Coulomb",
+            "Mho"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "Muscle fiber is constructed of bundles small long organelles called what?",
+        "correct_answer": "Myofibrils",
+        "incorrect_answers": [
+            "Epimysium",
+            "Myofiaments",
+            "Myocardium"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "Where is the Gluteus Maximus muscle located?",
+        "correct_answer": "Butt",
+        "incorrect_answers": [
+            "Arm",
+            "Head",
+            "Torso"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "How long is a light-year?",
+        "correct_answer": "9.461 Trillion Kilometres",
+        "incorrect_answers": [
+            "1 AU",
+            "105.40 Earth-years",
+            "501.2 Million Miles"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which planet did the \"Viking 1\" spacecraft send surface images of, starting in 1976?",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+            "Saturn",
+            "Jupiter",
+            "Venus"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "What do you study if you are studying entomology?",
+        "correct_answer": "Insects",
+        "incorrect_answers": [
+            "Humans",
+            "the Brain",
+            "Fish"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Approximately how long is a year on Uranus?",
+        "correct_answer": "84 Earth years",
+        "incorrect_answers": [
+            "47 Earth years",
+            "62 Earth years",
+            "109 Earth years"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which of the following men does not have a chemical element named after him?",
+        "correct_answer": "Sir Isaac Newton",
+        "incorrect_answers": [
+            "Albert Einstein",
+            "Niels Bohr",
+            "Enrico Fermi"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "On the periodic table of elements, what is the symbol for Tin?",
+        "correct_answer": "Sn",
+        "incorrect_answers": [
+            "Ti",
+            "Ni",
+            "Na"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "How many protons are in an oxygen atom?",
+        "correct_answer": "Eight",
+        "incorrect_answers": [
+            "Four",
+            "Two",
+            "Six"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "What is the official name of the star located closest to the North Celestial Pole?",
+        "correct_answer": "Polaris",
+        "incorrect_answers": [
+            "Eridanus",
+            "Gamma Cephei",
+            "Iota Cephei"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "The word \"science\" stems from the word \"scire\" meaning what?",
+        "correct_answer": "To know",
+        "incorrect_answers": [
+            "To measure",
+            "To live",
+            "To count"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Deionized water is water with which of the following removed?",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+            "Oxygen",
+            "Hydrogen",
+            "Uncharged atoms"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "Which of the following is NOT a passive electrical component?",
+        "correct_answer": "Transistor",
+        "incorrect_answers": [
+            "Resistor",
+            "Capacitor",
+            "Inductor"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "hard",
+        "question": "What is the most potent toxin known?",
+        "correct_answer": "Botulinum toxin",
+        "incorrect_answers": [
+            "Ricin",
+            "Cyanide",
+            "Asbestos"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "easy",
+        "question": "Which of these Elements is a metalloid?",
+        "correct_answer": "Antimony",
+        "incorrect_answers": [
+            "Tin",
+            "Bromine",
+            "Rubidium"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "When was the first mammal successfully cloned?",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+            "2009",
+            "1999",
+            "1985"
+        ]
+    },
+    {
+        "category": "Science & Nature",
+        "difficulty": "medium",
+        "question": "How old is the universe?",
+        "correct_answer": "13.8 Billion Years",
+        "incorrect_answers": [
+            "4.5 Billion Years",
+            "7.9 Billion Years",
+            "16.2 Billion Years"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "The Harvard architecture for micro-controllers added which additional bus?",
+        "correct_answer": "Instruction",
+        "incorrect_answers": [
+            "Address",
+            "Data",
+            "Control"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Which internet company began life as an online bookstore called 'Cadabra'?",
+        "correct_answer": "Amazon",
+        "incorrect_answers": [
+            "eBay",
+            "Overstock",
+            "Shopify"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "When Gmail first launched, how much storage did it provide for your email?",
+        "correct_answer": "1GB",
+        "incorrect_answers": [
+            "512MB",
+            "5GB",
+            "Unlimited"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Whistler was the codename of this Microsoft Operating System.",
+        "correct_answer": "Windows XP",
+        "incorrect_answers": [
+            "Windows 2000",
+            "Windows 7",
+            "Windows 95"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "What does AD stand for in relation to Windows Operating Systems? ",
+        "correct_answer": "Active Directory",
+        "incorrect_answers": [
+            "Alternative Drive",
+            "Automated Database",
+            "Active Department"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "The programming language 'Swift' was created to replace what other programming language?",
+        "correct_answer": "Objective-C",
+        "incorrect_answers": [
+            "C#",
+            "Ruby",
+            "C++"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "HTML is what type of language?",
+        "correct_answer": "Markup Language",
+        "incorrect_answers": [
+            "Macro Language",
+            "Programming Language",
+            "Scripting Language"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "All of the following programs are classified as raster graphics editors EXCEPT:",
+        "correct_answer": "Inkscape",
+        "incorrect_answers": [
+            "Paint.NET",
+            "GIMP",
+            "Adobe Photoshop"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?",
+        "correct_answer": "Taiwan",
+        "incorrect_answers": [
+            "United States",
+            "Germany",
+            "China (People's Republic of)"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Nvidia's headquarters are based in which Silicon Valley city?",
+        "correct_answer": "Santa Clara",
+        "incorrect_answers": [
+            "Palo Alto",
+            "Cupertino",
+            "Mountain View"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+        "correct_answer": ".svg",
+        "incorrect_answers": [
+            ".png",
+            ".jpeg",
+            ".gif"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "In web design, what does CSS stand for?",
+        "correct_answer": "Cascading Style Sheet",
+        "incorrect_answers": [
+            "Counter Strike: Source",
+            "Corrective Style Sheet",
+            "Computer Style Sheet"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "On which day did the World Wide Web go online?",
+        "correct_answer": "December 20, 1990",
+        "incorrect_answers": [
+            "December 17, 1996",
+            "November 12, 1990",
+            "November 24, 1995"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "What is the code name for the mobile operating system Android 7.0?",
+        "correct_answer": "Nougat",
+        "incorrect_answers": [
+            "Ice Cream Sandwich",
+            "Jelly Bean",
+            "Marshmallow"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "The internet domain .fm is the country-code top-level domain for which Pacific Ocean island nation?",
+        "correct_answer": "Micronesia",
+        "incorrect_answers": [
+            "Fiji",
+            "Tuvalu",
+            "Marshall Islands"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "What does the acronym CDN stand for in terms of networking?",
+        "correct_answer": "Content Delivery Network",
+        "incorrect_answers": [
+            "Content Distribution Network",
+            "Computational Data Network",
+            "Compressed Data Network"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "How many kilobytes in one gigabyte (in decimal)?",
+        "correct_answer": "1000000",
+        "incorrect_answers": [
+            "1024",
+            "1000",
+            "1048576"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "How many cores does the Intel i7-6950X have?",
+        "correct_answer": "10",
+        "incorrect_answers": [
+            "12",
+            "8",
+            "4"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Which one of these is not an official development name for a Ubuntu release?",
+        "correct_answer": "Mystic Mansion",
+        "incorrect_answers": [
+            "Trusty Tahr",
+            "Utopic Unicorn",
+            "Wily Werewolf"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Which coding language was the #1 programming language in terms of usage on GitHub in 2015?",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+            "C#",
+            "Python",
+            "PHP"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+        "correct_answer": "<marquee></marquee>",
+        "incorrect_answers": [
+            "<scroll></scroll>",
+            "<move></move>",
+            "<slide></slide>"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "In CSS, which of these values CANNOT be used with the \"position\" property?",
+        "correct_answer": "center",
+        "incorrect_answers": [
+            "static",
+            "absolute",
+            "relative"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "In programming, the ternary operator is mostly defined with what symbol(s)?",
+        "correct_answer": "?:",
+        "incorrect_answers": [
+            "??",
+            "if then",
+            "?"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "Which computer language would you associate Django framework with?",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+            "C#",
+            "C++",
+            "Java"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Which of these programming languages is a low-level language?",
+        "correct_answer": "Assembly",
+        "incorrect_answers": [
+            "Python",
+            "C#",
+            "Pascal"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "In computing terms, typically what does CLI stand for?",
+        "correct_answer": "Command Line Interface",
+        "incorrect_answers": [
+            "Common Language Input",
+            "Control Line Interface",
+            "Common Language Interface"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "How fast is USB 3.1 Gen 2 theoretically?",
+        "correct_answer": "10 Gb/s",
+        "incorrect_answers": [
+            "5 Gb/s",
+            "8 Gb/s",
+            "1 Gb/s"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Which of the following is a personal computer made by the Japanese company Fujitsu?",
+        "correct_answer": "FM-7",
+        "incorrect_answers": [
+            "PC-9801",
+            "Xmillennium ",
+            "MSX"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+        "correct_answer": "Hexidecimal",
+        "incorrect_answers": [
+            "Binary",
+            "Duodecimal",
+            "Octal"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "What is known as \"the brain\" of the Computer?",
+        "correct_answer": "Central Processing Unit",
+        "incorrect_answers": [
+            "Motherboard",
+            "Graphics Processing Unit",
+            "Keyboard"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "Which data structure does FILO apply to?",
+        "correct_answer": "Stack",
+        "incorrect_answers": [
+            "Queue",
+            "Heap",
+            "Tree"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "Which of the following is the oldest of these computers by release date?",
+        "correct_answer": "TRS-80",
+        "incorrect_answers": [
+            "Commodore 64",
+            "ZX Spectrum",
+            "Apple 3"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "This mobile OS held the largest market share in 2012.",
+        "correct_answer": "iOS",
+        "incorrect_answers": [
+            "Android",
+            "BlackBerry",
+            "Symbian"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "What does the International System of Quantities refer 1024 bytes as?",
+        "correct_answer": "Kibibyte",
+        "incorrect_answers": [
+            "Kylobyte",
+            "Kilobyte",
+            "Kelobyte"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Laserjet and inkjet printers are both examples of what type of printer?",
+        "correct_answer": "Non-impact printer",
+        "incorrect_answers": [
+            "Impact printer",
+            "Daisywheel printer",
+            "Dot matrix printer"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+            "Puma",
+            "Tiger",
+            "Leopard"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "Dutch computer scientist Mark Overmars is known for creating which game development engine?",
+        "correct_answer": "Game Maker",
+        "incorrect_answers": [
+            "Stencyl",
+            "Construct",
+            "Torque 2D"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "The name of technology company HP stands for what?",
+        "correct_answer": "Hewlett-Packard",
+        "incorrect_answers": [
+            "Howard Packmann",
+            "Husker-Pollosk",
+            "Hellman-Pohl"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?",
+        "correct_answer": "Transport",
+        "incorrect_answers": [
+            "Session",
+            "Data link",
+            "Network"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "What vulnerability ranked #1 on the OWASP Top 10 in 2013?",
+        "correct_answer": "Injection ",
+        "incorrect_answers": [
+            "Broken Authentication",
+            "Cross-Site Scripting",
+            "Insecure Direct Object References"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "Who invented the \"Spanning Tree Protocol\"?",
+        "correct_answer": "Radia Perlman",
+        "incorrect_answers": [
+            "Paul Vixie",
+            "Vint Cerf",
+            "Michael Roberts"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "In programming, what do you call functions with the same name but different implementations?",
+        "correct_answer": "Overloading",
+        "incorrect_answers": [
+            "Overriding",
+            "Abstracting",
+            "Inheriting"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "What does RAID stand for?",
+        "correct_answer": "Redundant Array of Independent Disks",
+        "incorrect_answers": [
+            "Rapid Access for Indexed Devices",
+            "Range of Applications with Identical Designs",
+            "Randomized Abstract Identification Description"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "easy",
+        "question": "In computing, what does LAN stand for?",
+        "correct_answer": "Local Area Network",
+        "incorrect_answers": [
+            "Long Antenna Node",
+            "Light Access Node",
+            "Land Address Navigation"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "How many bytes are in a single Kibibyte?",
+        "correct_answer": "1024",
+        "incorrect_answers": [
+            "2400",
+            "1000",
+            "1240"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "What major programming language does Unreal Engine 4 use?",
+        "correct_answer": "C++",
+        "incorrect_answers": [
+            "Assembly",
+            "C#",
+            "ECMAScript"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "Unix Time is defined as the number of seconds that have elapsed since when?",
+        "correct_answer": "Midnight, January 1, 1970",
+        "incorrect_answers": [
+            "Midnight, July 4, 1976",
+            "Midnight on the creator of Unix's birthday",
+            "Midnight, July 4, 1980"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "medium",
+        "question": "What does the 'S' in the RSA encryption algorithm stand for?",
+        "correct_answer": "Shamir",
+        "incorrect_answers": [
+            "Secure",
+            "Schottky",
+            "Stable"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+            "1999",
+            "2002",
+            "2008"
+        ]
+    },
+    {
+        "category": "Science: Computers",
+        "difficulty": "hard",
+        "question": "Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?",
+        "correct_answer": "Cherry MX Blue",
+        "incorrect_answers": [
+            "Cherry MX Black",
+            "Cherry MX Red",
+            "Cherry MX Brown"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What is the largest city and commercial capital of Sri Lanka?",
+        "correct_answer": "Colombo",
+        "incorrect_answers": [
+            "Moratuwa",
+            "Negombo",
+            "Kandy"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "The body of the Egyptian Sphinx was based on which animal?",
+        "correct_answer": "Lion",
+        "incorrect_answers": [
+            "Bull",
+            "Horse",
+            "Dog"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Montreal is in which Canadian province?",
+        "correct_answer": "Quebec",
+        "incorrect_answers": [
+            "Ontario",
+            "Nova Scotia",
+            "Alberta"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "How many countries are inside the United Kingdom?",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+            "Two",
+            "Three",
+            "One"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which of these is NOT a city in Saudi Arabia?",
+        "correct_answer": "Dubai",
+        "incorrect_answers": [
+            "Riyadh",
+            "Mecca",
+            "Medina"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which city is the capital of Switzerland?",
+        "correct_answer": "Bern",
+        "incorrect_answers": [
+            "Z\u00fcrich",
+            "Frankfurt",
+            "Wien"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "Which country does Austria not border?",
+        "correct_answer": "France",
+        "incorrect_answers": [
+            "Slovenia",
+            "Switzerland",
+            "Slovakia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which European city has the highest mileage of canals in the world?",
+        "correct_answer": "Birmingham",
+        "incorrect_answers": [
+            "Venice",
+            "Amsterdam",
+            "Berlin"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "The derisive acronym \"PIIGS\" refers to which of the following European countries and their economic statuses?",
+        "correct_answer": "Portugal, Ireland, Italy, Greece, Spain",
+        "incorrect_answers": [
+            "Poland, Iceland, Italy, Greece, Serbia",
+            "Poland, Iceland, Italy, Greenland, Spain",
+            "Portugal, Iceland, Ireland, Greece, Serbia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which of the following language families is the most controversial amongst modern linguists?",
+        "correct_answer": "Altaic",
+        "incorrect_answers": [
+            "Sino-Tibetan",
+            "Dravidian",
+            "Indo-European"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "On which continent is the country of Angola located?",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+            "South America",
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "Which of the following languages does NOT use the Latin alphabet?",
+        "correct_answer": "Georgian",
+        "incorrect_answers": [
+            "Turkish",
+            "Swahili",
+            "Vietnamese"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which of these countries is NOT located in Africa?",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+            "Burkina Faso",
+            "Mozambique",
+            "Algeria"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "What name was historically used for the Turkish city currently known as Istanbul?",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+            "H\u00fcdavendigar",
+            "S\u00f6\u011f\u00fct",
+            "Adrianople"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "Which US state has the highest population?",
+        "correct_answer": "California",
+        "incorrect_answers": [
+            "New York",
+            "Texas",
+            "Florida"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the capital of the US state Nevada?",
+        "correct_answer": "Carson City",
+        "incorrect_answers": [
+            "Las Vegas",
+            "Henderson",
+            "Reno"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+        "correct_answer": "United Kingdom",
+        "incorrect_answers": [
+            "Spain",
+            "Portugal",
+            "France"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the capital of the State of Washington, United States?",
+        "correct_answer": "Olympia",
+        "incorrect_answers": [
+            "Washington D.C.",
+            "Seattle",
+            "Yukon"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "The historical city Timbuktu is located in which West African country?",
+        "correct_answer": "Mali",
+        "incorrect_answers": [
+            "Senegal",
+            "Niger",
+            "Burkina Faso"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "Which of these is the name of the largest city in the US state Tennessee?",
+        "correct_answer": "Memphis",
+        "incorrect_answers": [
+            "Thebes",
+            "Alexandria",
+            "Luxor"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What year is on the flag of the US state Wisconsin?",
+        "correct_answer": "1848",
+        "incorrect_answers": [
+            "1634",
+            "1783",
+            "1901"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "Llanfair\u00adpwllgwyngyll\u00adgogery\u00adchwyrn\u00addrobwll\u00adllan\u00adtysilio\u00adgogo\u00adgoch is located on which Welsh island?",
+        "correct_answer": "Anglesey",
+        "incorrect_answers": [
+            "Barry",
+            "Bardsey",
+            "Caldey"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "Which country was NOT formerly part of Yugoslavia?",
+        "correct_answer": "Albania",
+        "incorrect_answers": [
+            "Croatia",
+            "Serbia",
+            "Macedonia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What tiny principality lies between Spain and France?",
+        "correct_answer": "Andorra",
+        "incorrect_answers": [
+            "Liechtenstein",
+            "Monaco",
+            "San Marino"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "What is the name of the peninsula containing Spain and Portugal?",
+        "correct_answer": "Iberian Peninsula",
+        "incorrect_answers": [
+            "European Peninsula",
+            "Peloponnesian Peninsula",
+            "Scandinavian Peninsula"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "The Space Needle is located in which city?",
+        "correct_answer": "Seattle",
+        "incorrect_answers": [
+            "Los Angles",
+            "Toronto",
+            "Vancouver"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "How tall is One World Trade Center in New York City?",
+        "correct_answer": "1,776 ft",
+        "incorrect_answers": [
+            "1,888 ft",
+            "1,225 ft",
+            "1,960 ft"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What city is known as the Rose Capital of the World?",
+        "correct_answer": "Tyler, Texas",
+        "incorrect_answers": [
+            "San Diego, California",
+            "Miami, Florida",
+            "Anaheim, California"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What is the Finnish word for \"Finland\"?",
+        "correct_answer": "Suomi",
+        "incorrect_answers": [
+            "Eesti",
+            "Magyarorsz\u00e1g",
+            "Sverige"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "When does Finland celebrate their independence day?",
+        "correct_answer": "December 6th",
+        "incorrect_answers": [
+            "January 2nd",
+            "November 12th",
+            "February 8th"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What is the second-largest city in Lithuania?",
+        "correct_answer": "Kaunas",
+        "incorrect_answers": [
+            "Panev\u0117\u017eys",
+            "Vilnius",
+            "Klaip\u0117da"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "What is the smallest country in the world?",
+        "correct_answer": "Vatican City",
+        "incorrect_answers": [
+            "Maldives",
+            "Monaco",
+            "Malta"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What was the most populous city in the Americas in 2015?",
+        "correct_answer": "S\u00e3o Paulo",
+        "incorrect_answers": [
+            "New York",
+            "Mexico City",
+            "Los Angeles"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the capital city of New Zealand?",
+        "correct_answer": "Wellington",
+        "incorrect_answers": [
+            "Auckland",
+            "Christchurch",
+            "Melbourne"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "What is the largest country in the world?",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+            "Canada",
+            "China",
+            "United States"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "How many stations does the Central Line have on the London Underground?",
+        "correct_answer": "49",
+        "incorrect_answers": [
+            "51",
+            "43",
+            "47"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Colchester Overpass, otherwise known as \"Bunny Man Bridge\", is located where?",
+        "correct_answer": "Fairfax County, Virginia",
+        "incorrect_answers": [
+            "Medford, Oregon",
+            "Braxton County, Virgina",
+            "Lemon Grove, California"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "What is the most common climbing route for the second highest mountain in the world, K2?",
+        "correct_answer": "Abruzzi Spur",
+        "incorrect_answers": [
+            "Magic Line",
+            "Cesen Route",
+            "Polish Line"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "How many rivers are in Saudi Arabia?",
+        "correct_answer": "0",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "3"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "Which small country is located between the borders of France and Spain?",
+        "correct_answer": "Andorra",
+        "incorrect_answers": [
+            "San Marino",
+            "Vatican City",
+            "Lichtenstein"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Which of these country's capitals starts with the letter B?",
+        "correct_answer": "Lebanon",
+        "incorrect_answers": [
+            "Jordan",
+            "Kuwait",
+            "Qatar"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "easy",
+        "question": "The Alps are a mountain range on which continent?",
+        "correct_answer": "Europe",
+        "incorrect_answers": [
+            "North America",
+            "Asia",
+            "Africa"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the official national language of Pakistan?",
+        "correct_answer": "Urdu",
+        "incorrect_answers": [
+            "Indian",
+            "Punjabi",
+            "Pashto"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the name of the only remaining Grand Duchy in the world ?",
+        "correct_answer": "Luxembourg",
+        "incorrect_answers": [
+            "Montenegro",
+            "Liechtenstein",
+            "Andorra"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+            "Chile",
+            "New Zealand",
+            "Fiji"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "Frankenmuth, a US city nicknamed \"Little Bavaria\", is located in what state?",
+        "correct_answer": "Michigan",
+        "incorrect_answers": [
+            "Pennsylvania",
+            "Kentucky",
+            "Virginia"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the northernmost human settlement with year round inhabitants?",
+        "correct_answer": "Alert, Canada",
+        "incorrect_answers": [
+            "Nagurskoye, Russia",
+            "McMurdo Station, Antarctica ",
+            "Honningsv\u00e5g, Norway"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "What is the capital of Greenland?",
+        "correct_answer": "Nuuk",
+        "incorrect_answers": [
+            "Sisimiut",
+            "Narsaq",
+            "Maniitsoq"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "hard",
+        "question": "Which country is the Taedong River in?",
+        "correct_answer": "North Korea",
+        "incorrect_answers": [
+            "South Korea",
+            "Japan",
+            "China"
+        ]
+    },
+    {
+        "category": "Geography",
+        "difficulty": "medium",
+        "question": "The Pyrenees mountains are located on the border of which two countries?",
+        "correct_answer": "France and Spain",
+        "incorrect_answers": [
+            "Italy and Switzerland",
+            "Norway and Sweden",
+            "Russia and Ukraine"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+        "correct_answer": "Simien Jackel",
+        "incorrect_answers": [
+            "Ethiopian Coyote",
+            "Amharic Fox",
+            "Canis Simiensis"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What does \"hippopotamus\" mean and in what langauge?",
+        "correct_answer": "River Horse (Greek)",
+        "incorrect_answers": [
+            "River Horse (Latin)",
+            "Fat Pig (Greek)",
+            "Fat Pig (Latin)"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
+        "correct_answer": "Nuts",
+        "incorrect_answers": [
+            "Nothing",
+            "Fruit",
+            "Seaweed"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What type of animal is a natterjack?",
+        "correct_answer": "Toad",
+        "incorrect_answers": [
+            "Bird",
+            "Fish",
+            "Insect"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is the fastest  land animal?",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+            "Lion",
+            "Thomson\u2019s Gazelle",
+            "Pronghorn Antelope"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is the scientific name for modern day humans?",
+        "correct_answer": "Homo Sapiens",
+        "incorrect_answers": [
+            "Homo Ergaster",
+            "Homo Erectus",
+            "Homo Neanderthalensis"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "The K\u0101k\u0101p\u014d is a large, flightless, nocturnal parrot native to which country?",
+        "correct_answer": "New Zealand",
+        "incorrect_answers": [
+            "South Africa",
+            "Australia",
+            "Madagascar"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which species of Brown Bear is not extinct?",
+        "correct_answer": "Syrian Brown Bear",
+        "incorrect_answers": [
+            "California Grizzly Bear",
+            "Atlas Bear",
+            "Mexican Grizzly Bear"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What color/colour is a polar bear's skin?",
+        "correct_answer": "Black",
+        "incorrect_answers": [
+            "White",
+            "Pink",
+            "Green"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "Hippocampus is the Latin name for which marine creature?",
+        "correct_answer": "Seahorse",
+        "incorrect_answers": [
+            "Dolphin",
+            "Whale",
+            "Octopus"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "Cashmere is the wool from which kind of animal?",
+        "correct_answer": "Goat",
+        "incorrect_answers": [
+            "Sheep",
+            "Camel",
+            "Llama"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the scientific name for the \"Polar Bear\"?",
+        "correct_answer": "Ursus Maritimus",
+        "incorrect_answers": [
+            "Polar Bear",
+            "Ursus Spelaeus",
+            "Ursus Arctos"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What are rhino's horn made of?",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+            "Bone",
+            "Ivory",
+            "Skin"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "How many legs do butterflies have?",
+        "correct_answer": "6",
+        "incorrect_answers": [
+            "2",
+            "4",
+            "0"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What scientific suborder does the family Hyaenidae belong to?",
+        "correct_answer": "Feliformia",
+        "incorrect_answers": [
+            "Haplorhini",
+            "Caniformia",
+            "Ciconiiformes"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "How many known living species of hyenas are there?",
+        "correct_answer": "4",
+        "incorrect_answers": [
+            "8",
+            "2",
+            "6"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What scientific family does the Aardwolf belong to?",
+        "correct_answer": "Hyaenidae",
+        "incorrect_answers": [
+            "Canidae",
+            "Felidae",
+            "Eupleridae"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "For what reason would a spotted hyena \"laugh\"?",
+        "correct_answer": "Nervousness",
+        "incorrect_answers": [
+            "Excitement",
+            "Aggression",
+            "Exhaustion"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What do you call a baby bat?",
+        "correct_answer": "Pup",
+        "incorrect_answers": [
+            "Cub",
+            "Chick",
+            "Kid"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What is the scientific name of the cheetah?",
+        "correct_answer": "Acinonyx jubatus",
+        "incorrect_answers": [
+            "Panthera onca",
+            "Lynx rufus",
+            "Felis catus"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What is the scientific name of the Budgerigar?",
+        "correct_answer": "Melopsittacus undulatus",
+        "incorrect_answers": [
+            "Nymphicus hollandicus",
+            "Pyrrhura molinae",
+            "Ara macao"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "Which animal was part of an Russian domestication experiment in 1959?",
+        "correct_answer": "Foxes",
+        "incorrect_answers": [
+            "Pigeons",
+            "Bears",
+            "Alligators"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "The now extinct species \"Thylacine\" was native to where?",
+        "correct_answer": "Tasmania, Australia",
+        "incorrect_answers": [
+            "Baluchistan, Pakistan",
+            "Wallachia, Romania",
+            "Oregon, United States"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What is the Gray Wolf's scientific name?",
+        "correct_answer": "Canis Lupus",
+        "incorrect_answers": [
+            "Canis Aureus",
+            "Canis Latrans",
+            "Canis Lupus Lycaon"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is Grumpy Cat's real name?",
+        "correct_answer": "Tardar Sauce",
+        "incorrect_answers": [
+            "Sauce",
+            "Minnie",
+            "Broccoli"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What type of creature is a Bonobo?",
+        "correct_answer": "Ape",
+        "incorrect_answers": [
+            "Lion",
+            "Parrot",
+            "Wildcat"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "Which of these species is not extinct?",
+        "correct_answer": "Komodo dragon",
+        "incorrect_answers": [
+            "Japanese sea lion",
+            "Tasmanian tiger",
+            "Saudi gazelle"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "Which class of animals are newts members of?",
+        "correct_answer": "Amphibian",
+        "incorrect_answers": [
+            "Fish",
+            "Reptiles",
+            "Mammals"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Unlike on most salamanders, this part of a newt is flat?",
+        "correct_answer": "Tail",
+        "incorrect_answers": [
+            "Head",
+            "Teeth",
+            "Feet"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the name of the family that the domestic cat is a member of?",
+        "correct_answer": "Felidae",
+        "incorrect_answers": [
+            "Felinae",
+            "Felis",
+            "Cat"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What dog bread is one of the oldest breeds of dog and has flourished since before 400 BCE.",
+        "correct_answer": "Pugs",
+        "incorrect_answers": [
+            "Bulldogs",
+            "Boxers",
+            "Chihuahua"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
+        "correct_answer": "Hemocyanin",
+        "incorrect_answers": [
+            "Cytochrome",
+            "Iron",
+            "Methionine"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which species is a \"mountain chicken\"?",
+        "correct_answer": "Frog",
+        "incorrect_answers": [
+            "Chicken",
+            "Horse",
+            "Fly"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the fastest animal?",
+        "correct_answer": "Peregrine Falcon",
+        "incorrect_answers": [
+            "Golden Eagle",
+            "Cheetah",
+            "Horsefly"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "The dish Fugu, is made from what family of fish?",
+        "correct_answer": "Pufferfish",
+        "incorrect_answers": [
+            "Bass",
+            "Salmon",
+            "Mackerel"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is the collective noun for a group of crows?",
+        "correct_answer": "Murder",
+        "incorrect_answers": [
+            "Pack",
+            "Gaggle",
+            "Herd"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which of the following is another name for the \"Poecilotheria Metallica Tarantula\"?",
+        "correct_answer": "Gooty",
+        "incorrect_answers": [
+            "Hopper",
+            "Silver Stripe",
+            "Woebegone"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the scientific name of the Common Chimpanzee?",
+        "correct_answer": "Pan troglodytes",
+        "incorrect_answers": [
+            "Gorilla gorilla",
+            "Pan paniscus",
+            "Panthera leo"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "By definition, where does an abyssopelagic animal live?",
+        "correct_answer": "At the bottom of the ocean",
+        "incorrect_answers": [
+            "In the desert",
+            "On top of a mountain",
+            "Inside a tree"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "Which of these is a colony of polyps and not a jellyfish?",
+        "correct_answer": "Portuguese Man-of-War",
+        "incorrect_answers": [
+            "Sea Wasp",
+            "Irukandji",
+            "Sea Nettle"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What colour is the female blackbird?",
+        "correct_answer": "Brown",
+        "incorrect_answers": [
+            "Black",
+            "White",
+            "Yellow"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "How many teeth does an adult rabbit have?",
+        "correct_answer": "28",
+        "incorrect_answers": [
+            "30",
+            "26",
+            "24"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the name for a male bee that comes from an unfertilized egg?",
+        "correct_answer": "Drone",
+        "incorrect_answers": [
+            "Soldier",
+            "Worker",
+            "Male"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "easy",
+        "question": "What is the name of a rabbit's abode?",
+        "correct_answer": "Burrow",
+        "incorrect_answers": [
+            "Nest",
+            "Den",
+            "Dray"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the collective noun for bears?",
+        "correct_answer": "Sloth",
+        "incorrect_answers": [
+            "Drove",
+            "Tribe",
+            "Husk"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "What is the collective noun for rats?",
+        "correct_answer": "Mischief",
+        "incorrect_answers": [
+            "Pack",
+            "Race",
+            "Drift"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What is the collective noun for vultures?",
+        "correct_answer": "Wake",
+        "incorrect_answers": [
+            "Ambush",
+            "Building",
+            "Gaze"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "What bird is born with claws on its wing digits?",
+        "correct_answer": "Hoatzin",
+        "incorrect_answers": [
+            "Cormorant",
+            "Cassowary",
+            "Secretary bird"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "medium",
+        "question": "\"Decapods\" are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
+        "correct_answer": "Krill",
+        "incorrect_answers": [
+            "Lobsters",
+            "Shrimp",
+            "Crabs"
+        ]
+    },
+    {
+        "category": "Animals",
+        "difficulty": "hard",
+        "question": "To which biological phylum do all mammals, birds and reptiles belong?",
+        "correct_answer": "Chordata",
+        "incorrect_answers": [
+            "Echinodermata",
+            "Annelida",
+            "Placazoa"
+        ]
+    }
+]

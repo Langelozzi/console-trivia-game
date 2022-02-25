@@ -1,0 +1,5 @@
+lab-trivia.pdf
+test_question_library.py
+test_question.py
+__pycache__
+.pytest_cache
