@@ -2,9 +2,9 @@
 #Date: 02/07/22
 
 #imports
-import question_library
 import os
 import time
+import question_library
 
 """This file contains the Game class that will actually run the game"""
 
@@ -12,8 +12,9 @@ class Game:
     """This Class runs the gameplay of the trivia game
     """
     def __init__(self) -> None:
-        """The constructer creates an instance of the question library then prints out the possible categories 
-        in a numbered list. It then asks the user for input for category, difficulty and a number of questions
+        """The constructer creates an instance of the question library then
+        prints out the possible categories in a numbered list. It then asks
+        the user for input for category, difficulty and a number of questions
         and then creates a list of filtered questions that will be asked to the user."""
         
         all_questions = question_library.QuestionLibrary()
@@ -56,7 +57,7 @@ class Game:
 
             #reprompts until its a number between 1-4
             guess = input("\nWhat is the correct answer? (enter number 1-4): ")
-            while guess.isnumeric() == False or int(guess) not in [1,2,3,4]:
+            while guess.isnumeric() is False or int(guess) not in [1,2,3,4]:
                 guess = input("\nWhat is the correct answer? (enter number 1-4): ")
 
             #ends timer when user enters an answer and calculates the elapsed time
@@ -84,4 +85,6 @@ class Game:
         return score
 
 
-            
+if __name__ == '__main__':
+    game = Game()
+    game.play()
